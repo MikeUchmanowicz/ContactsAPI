@@ -1,5 +1,5 @@
 # Contacts API / Full Stack CRUD Webapp
-Michal A Uchmanowicz & Luke Walder, Grand Canyon University, 2023
+Michal A Uchmanowicz, Grand Canyon University, 2023
 
 *JS Express, JS Angular*
 
