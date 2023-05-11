@@ -1,4 +1,4 @@
-# Contacts API / Full Stack CRUD Webapp
+# Contacts API / Full Stack CRUD Webapp React
 Michal A Uchmanowicz, Grand Canyon University, 2023
 
 *JS Express, JS React*
